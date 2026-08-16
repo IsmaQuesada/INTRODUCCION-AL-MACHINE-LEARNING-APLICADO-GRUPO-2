@@ -1,6 +1,6 @@
-# Machine Learning con scikit-learn — Notebooks de clase
+# Machine Learning  — Notebooks de clase
 
-Colección didáctica de notebooks de Jupyter en español sobre aprendizaje automático clásico. Cada notebook desarrolla un tema paso a paso, con ejemplos prácticos, visualizaciones y evaluación de modelos, todo implementado con scikit-learn (más pandas, numpy, matplotlib y seaborn).
+Repositorio de códigos realizados durante el módulo de Introducción al Machine Learning Aplicado
 
 ## Contenido
 
@@ -17,7 +17,5 @@ Colección didáctica de notebooks de Jupyter en español sobre aprendizaje auto
 | `CurvaROC/` | `CurvaROC.ipynb` | Curva ROC y métrica AUC, ajuste del umbral y comparación de modelos |
 | `Curvas de aprendizaje/` | `CurvaAprendizajeML.ipynb` | Sesgo alto vs. varianza alta y curvas de aprendizaje |
 | `Clases no balanceadas/` | `Clases_No_Balanceadas.ipynb` | Problema del desbalance de clases, métricas (precision, recall, F1, G-mean) y técnicas de balanceo (submuestreo/sobremuestreo) |
-
-Los notebooks están pensados para abrirse en Jupyter y ejecutar las celdas en orden.
 
 Autor: Ismael Quesada Salas
