@@ -17,5 +17,3 @@ Repositorio de códigos realizados durante el módulo de Introducción al Machin
 | `CurvaROC/` | `CurvaROC.ipynb` | Curva ROC y métrica AUC, ajuste del umbral y comparación de modelos |
 | `Curvas de aprendizaje/` | `CurvaAprendizajeML.ipynb` | Sesgo alto vs. varianza alta y curvas de aprendizaje |
 | `Clases no balanceadas/` | `Clases_No_Balanceadas.ipynb` | Problema del desbalance de clases, métricas (precision, recall, F1, G-mean) y técnicas de balanceo (submuestreo/sobremuestreo) |
-
-Autor: Ismael Quesada Salas
